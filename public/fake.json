@@ -1,0 +1,62 @@
+[
+    {
+        "id": 101,
+        "name": "CSE",
+        "img": "https://chennai.vit.ac.in/wp-content/uploads/2020/08/Computer-Science-engineering-course-details-scope-and-career-option.jpg",
+        "price": 30000
+    },
+    {
+        "id": 102,
+        "name": "BBA",
+        "img": "https://i.ytimg.com/vi/88-U0tZv09s/hqdefault.jpg",
+        "price": 25000
+    },
+    {
+        "id": 103,
+        "name": "ECE",
+        "img": "https://www.iimtindia.net/Blog/wp-content/uploads/2021/05/ece_article.jpg",
+        "price": 20000
+    },
+    {
+        "id": 104,
+        "name": "Graphics Design",
+        "img": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg",
+        "price": 10000
+    },
+    {
+        "id": 105,
+        "name": "Robotics",
+        "img": "https://miro.medium.com/max/800/0*i9fwlQw-55T7Bydg.jpg",
+        "price": 50000
+    },
+    {
+        "id": 106,
+        "name": "Mechanical",
+        "img": "https://images.wondershare.com/mockitt/ux-beginner/mechanical-engineering.jpeg",
+        "price": 100000
+    },
+    {
+        "id": 107,
+        "name": "Web Design",
+        "img": "https://nite.ac.bd/wp-content/uploads/2020/09/webdesign-services-why-i-should-have-a-website-for-my-business.jpg",
+        "price": 35000
+    },
+    {
+        "id": 108,
+        "name": "Seo",
+        "img": "https://www.impactplus.com/hubfs/SEO-statistics.png#keepProtocol",
+        "price": 12000
+    },
+    {
+        "id": 109,
+        "name": "Physics",
+        "img": "https://st2.depositphotos.com/5486284/8016/v/600/depositphotos_80162598-stock-illustration-set-of-physical-equipment.jpg",
+        "price": 200000
+    },
+    {
+        "id": 110,
+        "name": "Math",
+        "img": "https://i.ytimg.com/vi/Kp2bYWRQylk/maxresdefault.jpg",
+        "price": 400000
+    }
+]

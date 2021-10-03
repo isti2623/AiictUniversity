@@ -3,6 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 
 const Footer = () => {
     return (
+
         <div>
             <Container>
                 <Row>
@@ -27,6 +28,7 @@ const Footer = () => {
                 </Row>
                 <p className="text-center">© 2021 · Ahsanullah Institute of Information & Communication Technology(AIICT)</p>
             </Container>
+
         </div>
     );
 };

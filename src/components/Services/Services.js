@@ -5,7 +5,7 @@ import Academy from '../Academy/Academy';
 const Services = () => {
     const [subjects, setSubjects] = useState([]);
     useEffect(() => {
-        fetch('https://raw.githubusercontent.com/isti2623/fake-data/main/fake.json')
+        fetch('./fake.json')
             .then(res => res.json())
             .then(data => setSubjects(data))
     }, [])
