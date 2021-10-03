@@ -27,7 +27,6 @@ const Home = () => {
                     ></Academy>)
                 }
 
-                )
             </Row>
 
         </div>
