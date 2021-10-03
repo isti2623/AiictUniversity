@@ -23,7 +23,7 @@ const Contact = () => {
                         style={{ height: '100px' }}
                     />
                 </FloatingLabel>
-                <Button className="mt-3" variant="success">Success</Button>
+                <Button className="mt-3" variant="success">Submit</Button>
 
             </Container>
         </div>
