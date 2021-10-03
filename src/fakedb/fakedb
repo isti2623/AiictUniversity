@@ -1,0 +1,27 @@
+const data = [
+    {
+        id:1101,
+        name:"CSE",
+        img:"https://chennai.vit.ac.in/wp-content/uploads/2020/08/Computer-Science-engineering-course-details-scope-and-career-option.jpg",
+        price:30000,
+    },
+    {
+        id:1102,
+        name:"BBA",
+        img:"https://i.ytimg.com/vi/88-U0tZv09s/hqdefault.jpg",
+        price:25000,
+    },
+    {
+        id:1103,
+        name:"ECE",
+        img:"https://www.iimtindia.net/Blog/wp-content/uploads/2021/05/ece_article.jpg",
+        price:20000,
+    },
+    {
+        id:1104,
+        name:"Graphics Design",
+        img:"https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg",
+        price:10000,
+    },
+ 
+]
