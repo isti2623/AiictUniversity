@@ -1,6 +1,5 @@
-import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import not from '../../images/not.png'
 import './NotFound.css'
